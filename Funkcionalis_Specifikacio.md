@@ -7,7 +7,8 @@ A technológiai fejlődéssel egy új szegmens nyílt meg az emberek számára, 
 
 ## Jelenlegi helyzet
 
-
+Jelenleg, ha az ember állásinterjúra megy papír alapon nyújt be önéletrazot és kísérő levelet. Szerintünk ebből a két dokumentumból nem derül ki, hogy az adott ember milyen is. Kell egy független bemutatkozás, érdeklődési kör ismertetés, hogy komplexebb kép alakuljon ki a pályázóról. 
+Úgy gondoljuk, hogy egy ilyen személyes weblap elősegíti a pályázót a sikeres felvételhez, amennyiben pedig egy másik cég HR-ese talál rá a weboldalra nem csak le tudja tölteni az önéletrajzot, de a kapcsolatot is fel tudja venni az adott személlyel. 
 
 ## Vágyálomrendszer
 
