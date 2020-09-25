@@ -19,6 +19,11 @@ A megrendelő egy olyan weboldalt szeretne ahol a kedvenc videóit meg tudja tek
 
 - Videók oldal: Ezen az oldalon a kedvenc vidóit szeretné látni egy rövid leírással. Szeretné, hogy a videók átirányítás nélkül játszódjanak le a weboldalon. 
 
+### Modell
+
+Kezdőoldal  --> Önéletrajz oldal --> Videók
+Kezdőoldal  --> Videók --> Önéletrajz
+
 ## Követelménylista
 ### Közös
 - Menüpontok a vezérléshez: Videók, Ismertető, Önéletrajz
