@@ -22,6 +22,7 @@ A megrendelő egy olyan weboldalt szeretne ahol a kedvenc videóit meg tudja tek
 ### Modell
 
 Kezdőoldal  --> Önéletrajz oldal --> Videók
+<br>
 Kezdőoldal  --> Videók --> Önéletrajz
 
 ## Követelménylista
