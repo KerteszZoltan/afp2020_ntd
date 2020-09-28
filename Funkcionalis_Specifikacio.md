@@ -16,6 +16,8 @@ Egy egyszerű weblapot csinálunk ahol a kezdőlap egy bemutatkozó oldal. Itt a
 
 ## Jelenlegi üzleti folyamatok
 
+Jelenleg az önéletrajzot az emberek papír alapon nyújtják be, ami nem túl környezet barát és sajnos nem ismerik meg a jelentkezőt csak beskatulyázzák első "ránézés" alapján. A Weboldalunk ezbben segítene a felhasználóknak, hiszen nem lenne szükség a papír alapú önéletrajzra és látatlanban is sokkal jobban kikörvonalazódik a munkavállaló számára, hogy az adott ember aki jelentkezett a munkára, milyen személyiség.
+
 ## Igényelt üzleti folyamatok
 
 ## Követeleménylista 
