@@ -7,7 +7,7 @@ Manapság már mindenki tárolja ezeket valamilyen alkalmazásban, webes felüle
 ## Jelenlei helyzet
 Ezeket papír alapon, számítógépemen vagy telefonomon tárolom ezeket. Ha ki kell nyomtatni az önéletrajzom több példányban, akkor be kell scennelnem, a papírboltba pendrivon bekell vinnem, ami elég sok időbe és gyakran hosszú utazásokba kerül.
 A kedvenc youtube zenéimet nem tudom sehova lementeni, hogy keresés nélkül, könnyen megtaláljam őket.
-Ha valaki e-mailt szeretne küldeni nekem csak akkor tud, ha elkéri az e-mail címem, de így már az önéletrajzom megtekintése után is könnyendén, egy mozdulattal elérheti.
+Ha valaki e-mailt szeretne küldeni nekem csak akkor tud, ha elkéri az e-mail címem, az önéletrajzom megtekintése után is csak az email cím elkéréssel van lehetősége emailt küldeni.
 
 ## Vágyálom rendszer
 
