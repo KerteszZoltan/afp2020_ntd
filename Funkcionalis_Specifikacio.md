@@ -12,6 +12,8 @@ Jelenleg, ha az ember állásinterjúra megy papír alapon nyújt be önéletraz
 
 ## Vágyálomrendszer
 
+Egy egyszerű weblapot csinálunk ahol a kezdőlap egy bemutatkozó oldal. Itt a felhasználóról egy rövid bemutatkozó szöveg található egy menü szerkezettel ahol kitudja választani, hogy melyik oldalra kíván tovább menni. Választhatja az önéletrajzot és a Videókat. A vieók menüpont alatt a felhasználó kedvenc videói találhatóak egy rövid leírással. Az Önéletrajz menüpontot választva egy olyan oldal fog megnyílni ahol a felhasználó önéletrajza található táblázatos formában, alatta pedig két gomb fog lehetőséget nyújtani a gyors e-mail küldésére és az önéletrajz letöltésére. 
+
 ## Jelenlegi üzleti folyamatok
 
 ## Igényelt üzleti folyamatok
