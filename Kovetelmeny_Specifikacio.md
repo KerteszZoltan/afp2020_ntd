@@ -1,6 +1,8 @@
 # Követelmény Specifikáció
 
 ## Bevezetés
+Egy olyan weboldalt szeretnék, ahol a saját önéletrajzot érhetnénk el és egy rövid bemutatkozással indulna a kezdőlap, valamint saját, kedvenc videóinkat is tárolhatnánk ezen a weblapon.
+Manapság már mindenki tárolja ezeket valamilyen alkalmazásban, webes felületen, de így bőngészőn keresztül egyszerűbben elérhetővé válna számunkra.
 
 ## Jelenlei helyzet
 
