@@ -25,6 +25,13 @@ Jelenleg az önéletrajzot az emberek papír alapon nyújtják be, ami nem túl 
 ## Képernyőtervek
 
 ## Használati esetek
+Hozzáférések jogultság szerint:
+	-Egyszerű felhasználó
+
+Egyszerű felhasználó: 
+	-Szabadon megtekintheti az oldalakat.
+	-Az önéletrajzi oldalon található email küldése funkció használata
+	-Videók lejátszása, megállítása, hangerő szabályozása
 
 ## Forgatókönyvek
 
