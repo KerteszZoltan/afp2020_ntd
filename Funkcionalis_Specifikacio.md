@@ -74,6 +74,7 @@ Valamint minden oldal alján található egy gomb ami a kezdő oldalra, azaz a b
 		k1, k3 követelményeinek megfelel
 		A felhasználó kedvenc videói találhatóak itt.
 
+
 ## Fogalomszótár
 HTML: Alapértelmezett leíró nyelv, weboldalak készítésére szokás használni.
 
