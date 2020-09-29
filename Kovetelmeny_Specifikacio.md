@@ -13,6 +13,7 @@ Ha valaki e-mailt szeretne küldeni nekem csak akkor tud, ha elkéri az e-mail c
 Szeretnék egy olyan weboldalt, ahol a kezdőlapon elhelyezkedik egy menü és külön oldalon találhatóak a videók és az önéletrajz. A kezdőlap tartalmazna egy rövid bemutatozást. A videós oldalon szeretném, ha lennének előre feltöltött videók és youtube-ból megnyíló videók. Szeretném ha ez a két csoport egymás mellett helyezkedne el és egy cím és rövid leírás lenne. Az önéletrajzos oldalt úgy képzelem el, hogy egy rövidített önéletrajz lenne kezdésnek és pdf-ben letölthető lenne a teljes. Szeretném, ha a letöltés gomb alatt lenne egy olyan gomb amivel e-mailt lehet nekem küldeni. A menü minden oldalon jelenjen meg.
 
 ## Jelenlegi üzleti folyamatok
+Jelenleg ha egy videót szeretnék letölteni youtube-ról, akkor keresnem kell egy convertert, hogy lementsem, eltároljam a videót, és hogy megtaláljam könnyen. Az önéletrajzom mindig ki kell nyomtatni és e-mailben elküldeni. Szerintem sokkal jobb lenne, ha csak egy URL-t küldenék és több dolgot tudnának meg rólam, mint egy önéletrajzból. Nagyobb betekintést kapnának arról, hogy ki is vagyok.
 
 ## Igényelt üzleti folyamatok
 
