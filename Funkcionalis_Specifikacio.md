@@ -21,6 +21,23 @@ Jelenleg az önéletrajzot az emberek papír alapon nyújtják be, ami nem túl 
 ## Igényelt üzleti folyamatok
 
 ## Követeleménylista 
+### Funkcionális követelmények:
+  k1: Vezérlés: 
+	Videók, Bemutató, Önéletrajz
+	Egységes háttérkép
+  k2: Kezdőoldal:
+ 	Kép beillesztés
+ 	Rövid Bemutató
+  k3: Videók:
+	Beágyazott videók a Youtube-ról
+	Videó leírás.
+	Különböző betűtípus a Bemutató és az Önéletrajz oldaltól.
+  k4: Önéletrajz:
+	EuroPass kialakítású önéletrajz megjelenítés
+	Gomb: Különböző háttérszín
+	Gomb1: Email küldése
+	Gomb2: Önéletrajz letöltése
+	Különböző betűtípus a kezdőlaptól
 
 ## Képernyőtervek
 
