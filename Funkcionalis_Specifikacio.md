@@ -41,6 +41,10 @@ Igény szerint, ha az emberek normális weboldalt szeretnének készítettni akk
 	Különböző betűtípus a kezdőlaptól
 
 ## Képernyőtervek
+- A kezdőoldal lenne az ismertető oldal Önről. Az ismertető oldalon felül lenne egy navigációs menü. Ez a menü jelenne meg minden további oldalon és a menüben ki lenne emelve hogy mi az aktuális oldal. Az oldal tartalma az Ön álltal leírtakat tartalmazná. 
+- A navigációs menüben a kiválasztott oldalra kattintva nyílik meg az új oldal. - Ha a videók menüpontra kattintanak, megnyílik az oldal és bal oldalon az előre feltöltött videók fognak megnyílni, jobb oldalon pedig a Youtube-ról beágyazott videók. 
+- Ha az önéletrajzot szeretné megtekinteni, akkor táblázatos (euro pass-os) formátumba lesz a rövid ismertető. Az ismertető alatt két gomb fog elhelyezkedni, az egyik gomb az önéletrajz PDF formátumban való letöltését biztosítja, míg a másik az alapértelmezett levelező programot nyitja meg, hogy e-mailt tudjon küldeni. 
+- Minden oldal alján egy gomb lesz található ami az alapértelmezett (bemutatkozó) oldalra fogja vissza irányítani.
 
 ## Használati esetek
 Hozzáférések jogultság szerint:
