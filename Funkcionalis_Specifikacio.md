@@ -31,9 +31,15 @@ Hozzáférések jogultság szerint:
 Egyszerű felhasználó: 
 	-Szabadon megtekintheti az oldalakat.
 	-Az önéletrajzi oldalon található email küldése funkció használata
+	-Önéletrajz letöltése pdf formátumban.
 	-Videók lejátszása, megállítása, hangerő szabályozása
 
 ## Forgatókönyvek
+Az alkalmazás a webböngészőkben fut, nem kell hozzá semmiféle szerver oldali erőforrás. 
+A kezdőoldal az egy rövid ismertető oldal a önéletrajz tulajdonosáról. A kezdő oldalon felül található egy navigációs menü, amely segítségével tekinthetjük meg minden további oldalt. Ez a menü mindegyik oldalon egyaránt megtalálható és az aktuális oldal kimelve látható.
+A navigációs menüben a kiválasztott oldalra kattontva nyílik meg az új oldal. A videók menüpontra kattintva nyílik meg az oldal, az oldalon a feltöltött videók láthatóak, ezek lejátszására, megállítására, hangerőszabályozására van lehetőség. 
+Amennyiben az önéletrajzot szeretné megtekinteni akkor táblázatos (euro pass-os) formátumban tekinthető meg a rövid ismertető. Az ismertető alatt két gomb található, az egyik gomb az önéletrajz PDF formátumban való letöltését biztosítja, míg a másik az alapértelmezett levelző programot nyitja meg, ahol az önéletrajz tulajdonosának vanj lehetőség emailt küldeni. 
+Valamint minden oldal alján található egy gomb ami a kezdő oldalra, azaz a bemutatkozó oldalra írányít vissza.
 
 ## Funkciók
 
