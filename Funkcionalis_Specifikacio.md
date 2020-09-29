@@ -43,4 +43,8 @@ Valamint minden oldal alján található egy gomb ami a kezdő oldalra, azaz a b
 
 ## Funkciók
 
+
 ## Fogalomszótár
+HTML: Alapértelmezett leíró nyelv, weboldalak készítésére szokás használni.
+
+CSS: HTML oldalak stílusnak leírására használatos nyelv.
