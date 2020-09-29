@@ -60,7 +60,15 @@ Amennyiben az önéletrajzot szeretné megtekinteni akkor táblázatos (euro pas
 Valamint minden oldal alján található egy gomb ami a kezdő oldalra, azaz a bemutatkozó oldalra írányít vissza.
 
 ## Funkciók
-
+	f1:Kezdőlap:
+		k1, k2 követelményeinek megfelel
+		Ezen az oldalon találhatóak az általános információk az önéletrajz tulajdonosáról.
+	f2:Önéletrajz:
+		k1, k4 követelményeinek megfelel
+		Ezen az oldalon található maga az önéletrajz.
+	f3:Videók:
+		k1, k3 követelményeinek megfelel
+		A felhasználó kedvenc videói találhatóak itt.
 
 ## Fogalomszótár
 HTML: Alapértelmezett leíró nyelv, weboldalak készítésére szokás használni.
