@@ -16,7 +16,28 @@
 
 ## Üzleti folyamatok modellje
 
-## Követelmények 
+	Üzleti szereplõk:
+		-Tulajdonos
+		-Project készítői
+
+	Támogatandó üzleti folyamatok:
+		-Információk frissítése
+		-Videók feltöltése
+
+	Üzleti folyamatok leírása:
+
+	Lejátszás:
+		Az oldalon letudjuk játszani a meglévő videókat. Ehhez saját online lejátszót kell használni.
+
+	Videók feltöltése:
+		A tulajdonosnak és az admin(ok)-nak lehetőségük lesz videók és azok leírásának feltöltésére.
+
+	Modell:
+		Kezdőoldal -> Önéletrajz -> Önéletrajz letöltés
+				-> E-mail küldés
+				-> Videók
+
+## Követelmények
 
 - Funkcionális követelmények 
   - Kezdőoldal (index.html)
