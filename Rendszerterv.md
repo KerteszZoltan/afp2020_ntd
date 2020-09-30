@@ -8,6 +8,15 @@
 
 ## Követelmények 
 
+- Funkcionális követelmények 
+  - Kezdőoldal (index.html)
+  - Videók oldal (video.html)
+  - Önéletrajz oldal (cv.html)
+  - Minden oldalról minden oldal elérése
+- Nem funkcionális követelmények
+ - Oldalanként különböző betűtípus
+  - Oldalanként megegyező háttér
+
 ## Funkcionális terv
 
 ## Fizikai környezet
