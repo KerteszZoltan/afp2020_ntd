@@ -31,8 +31,6 @@
 -Kezdő oldal
 -Önéletrajt oldal
 -Videók oldal
-## Fizikai környezet
-
 ## Absztrakt modell
 ---------
 ## Implementációs terv
