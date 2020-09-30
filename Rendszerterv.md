@@ -18,7 +18,19 @@
   - Oldalanként megegyező háttér
 
 ## Funkcionális terv
+### Rendszerszereplők:
+-   Megtekintők
 
+### Rendszerhasználati esetek és lefutásaik:
+- Megtekintő:
+  - Kezdőoldal megtekintése -> Videók/Önéletrajz megtekintés
+  - Önéletrajz oldal megtekintés -> Videók/Kezdőoldal megtekintés
+  - Videók oldal megtekintés -> Kezdőoldal/Önéletrajz megtekintése.
+
+### Menü-hiererchia:
+-Kezdő oldal
+-Önéletrajt oldal
+-Videók oldal
 ## Fizikai környezet
 
 ## Absztrakt modell
