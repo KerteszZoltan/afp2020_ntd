@@ -65,5 +65,6 @@
 ## Absztrakt modell
 ---------
 ## Implementációs terv
+A Webes felület főként HTML, és CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
 
 ## Karbantartási terv
