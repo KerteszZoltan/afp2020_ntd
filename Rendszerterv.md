@@ -1,6 +1,10 @@
 # Rendszerterv
 
 ## A rendszer célja
+ A rendszer célja, hogy a Követelmény és Funkcionális specifikációban meghatározott megrendelői folyamatok megvalósuljanak.
+ Egy olyan online bemutatkozó oldalt szeretnénk létrehozni, ami használhatóságban, megjelenésben és funkcióit tekintve,a megrendelőkívánságainak eleget tesz. 
+ A weboldalt bárki elfogja tudni érni és a megrendelő álltal megosztott információkat láthatja. Fontosnak tartjuk, hogy a megrendelő oldala mindig napra kész legyen.
+ Az oldalunk célja, népszerűsíteni a megrendelőt és egyben a szoftver gyártó cégünket.
 
 ## Projektterv
 
