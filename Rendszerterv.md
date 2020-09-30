@@ -68,3 +68,8 @@
 A Webes felület főként HTML, és CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
 
 ## Karbantartási terv
+A szoftveren a későbbiekben nem kell nagyobb karbantartásokat elvégezni. Az esetleges karbantartások a következőből állhatnak:
+- Tesztelés frissebb veriójú böngészők használatával. Hiba észlelése esetén azok javítása.
+- A kiszolgáló szerver státuszának ellenőrzése, offline szerver esetén újraindítás.
+- Igény esetén új funkciók hozzáadása.
+- Igény esetén új videók hozzáadása.
