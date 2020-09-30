@@ -8,6 +8,12 @@
 
 ## Projektterv
 
+	    Dátum		    Tevékenység						            Résztvevő(k)
+	
+    2020.09.17.-09.29.	    Dokumentációk elkészítése és véglegesítése
+    2020.09.28.		    Fejlesztés megkezdése
+    2020.10.01.		    Projekt átadása						        A projektben résztvevő összes szereplő
+
 ## Üzleti folyamatok modellje
 
 ## Követelmények 
