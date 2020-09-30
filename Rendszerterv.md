@@ -34,7 +34,7 @@
 ## Fizikai környezet
 
 ## Absztrakt modell
-
+---------
 ## Implementációs terv
 
 ## Karbantartási terv
