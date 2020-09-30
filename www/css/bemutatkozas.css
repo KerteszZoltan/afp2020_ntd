@@ -1,0 +1,99 @@
+body{
+    background-image: url("./../images/index_stars_background.jpg");
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.main-page {
+  margin:auto;
+  width: 80%;
+  height: 80%;
+}
+
+.main-menu {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  left: 40%;
+  top:0;
+}
+
+.main-menu a {
+   float: left;
+   color: #f2f2f2;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+  
+.main-menu a:hover {
+  background-color: #ddd;
+  color: black;
+}
+  
+.main-menu a.active {
+  background-color: grey;
+  color: white;
+}
+
+.image-box {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    float: left;
+    top: 5%;
+    left:30%;
+}
+
+.image-view{
+    width: 150px;
+    height: 150px;
+    left: 33%;
+}
+
+.page-name{
+    color: white;
+    position: fixed;
+    top: 8%;
+    left: 45%;
+    width: 80%;
+}
+
+.footer-page {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-decoration-color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.welcome-type{
+    color: #ddd;
+    position: fixed;
+    left: 43%;
+    top: 16%;
+}
+
+.footer-page p{
+    color: #ddd;
+}
+
+.main-page.leiras{
+    margin: auto;
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    width: 80%;
+    color: #ddd;
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.main-page p{
+    color: #ddd;
+    margin: auto;
+    float: left;
+}
