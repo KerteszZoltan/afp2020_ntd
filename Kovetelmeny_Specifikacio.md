@@ -12,10 +12,10 @@ Ha valaki e-mailt szeretne küldeni nekem csak akkor tud, ha elkéri az e-mail c
 ## Vágyálom rendszer
 Szeretnék egy olyan weboldalt, ahol a kezdőlapon elhelyezkedik egy menü és külön oldalon találhatóak a videók és az önéletrajz. A kezdőlap tartalmazna egy rövid bemutatozást. A videós oldalon szeretném, ha lennének előre feltöltött videók és youtube-ból megnyíló videók. Szeretném ha ez a két csoport egymás mellett helyezkedne el és egy cím és rövid leírás lenne. Az önéletrajzos oldalt úgy képzelem el, hogy egy rövidített önéletrajz lenne kezdésnek és pdf-ben letölthető lenne a teljes. Szeretném, ha a letöltés gomb alatt lenne egy olyan gomb amivel e-mailt lehet nekem küldeni. A menü minden oldalon jelenjen meg.
 
-## Jelenlegi üzleti folyamatok
+## Jelenlegi üzleti folyamatok modellje
 Jelenleg ha egy videót szeretnék letölteni youtube-ról, akkor keresnem kell egy convertert, hogy lementsem, eltároljam a videót, és hogy megtaláljam könnyen. Az önéletrajzom mindig ki kell nyomtatni és e-mailben elküldeni. Szerintem sokkal jobb lenne, ha csak egy URL-t küldenék és több dolgot tudnának meg rólam, mint egy önéletrajzból. Nagyobb betekintést kapnának arról, hogy ki is vagyok.
 
-## Igényelt üzleti folyamatok
+## Igényelt üzleti folyamatok modellje
 
 A megrendelő egy olyan weboldalt szeretne ahol a kedvenc videóit meg tudja tekinteni, az önéletrajzát tudja róla elérni és e-mail küldésre is alkalmas. Azt szertné, hogy a weboldal 3 lapból álljon ahol egységesek a hátterek, de különbözőek a batűtípusok. A fejléc tartalmazza a nevét és "álnevét", alatta pedig egy menüt a többi oldalra.  A háttérnek képet szeretne, hogy ne legyen egyszínű, unalmas az oldal.
 
@@ -25,30 +25,9 @@ A megrendelő egy olyan weboldalt szeretne ahol a kedvenc videóit meg tudja tek
 - Önéletrajz oldal: Itt az önéletrajzát szeretné megjeleníteni. Alatta vagy felette szeretné, ha el lenne helyezve a két gomb amin az a felirat található, hogy "e-mail küldése" és "Önéletrajz letöltése". A gomboknak különböző háttérszínt szeretne.
 
 - Videók oldal: Ezen az oldalon a kedvenc vidóit szeretné látni egy rövid leírással. Szeretné, hogy a videók átirányítás nélkül játszódjanak le a weboldalon. 
-
-### Modell
+<br>
 
 Kezdőoldal  --> Önéletrajz oldal --> Videók
 <br>
 Kezdőoldal  --> Videók --> Önéletrajz
 
-## Követelménylista
-### Közös
-- Menüpontok a vezérléshez: Videók, Ismertető, Önéletrajz
-- Egységes háttérkép
-### Kezdőoldal
-- Kép beillesztés
-- Rövid ismertető
-### Önéletrajz
-- EuroPass kialakítású önéletrajz megjelenítés
-- Gomb: Különböző háttérszín
-- Gomb1: Email küldése
-- Gomb2: Önéletrajz letöltése
-- Különböző betűtípus a kezdőlaptól
-### Videók
-- Beágyazott videók a Youtube-ról
-- Videó leírás.
-- Különböző betűtípus a Kezdő és az Önéletrajz oldaltól.
-
-### Lehetséges betűtípusok
-Serif, Cursive, Fantasy, Sans-Serif, Monospace, Colibri, Times New Roman
