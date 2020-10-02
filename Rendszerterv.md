@@ -1,12 +1,43 @@
 # Rendszerterv
 
 ## A rendszer célja
+ A rendszer célja, hogy a Követelmény és Funkcionális specifikációban meghatározott megrendelői folyamatok megvalósuljanak.
+ Egy olyan online bemutatkozó oldalt szeretnénk létrehozni, ami használhatóságban, megjelenésben és funkcióit tekintve,a megrendelőkívánságainak eleget tesz. 
+ A weboldalt bárki elfogja tudni érni és a megrendelő álltal megosztott információkat láthatja. Fontosnak tartjuk, hogy a megrendelő oldala mindig napra kész legyen.
+ Az oldalunk célja, népszerűsíteni a megrendelőt és egyben a szoftver gyártó cégünket.
 
 ## Projektterv
 
+	    Dátum		    Tevékenység						            Résztvevő(k)
+	
+    2020.09.17.-09.29.	    Dokumentációk elkészítése és véglegesítése
+    2020.09.28.		    Fejlesztés megkezdése
+    2020.10.01.		    Projekt átadása						        A projektben résztvevő összes szereplő
+
 ## Üzleti folyamatok modellje
 
-## Követelmények 
+	Üzleti szereplõk:
+		-Tulajdonos
+		-Project készítői
+
+	Támogatandó üzleti folyamatok:
+		-Információk frissítése
+		-Videók feltöltése
+
+	Üzleti folyamatok leírása:
+
+	Lejátszás:
+		Az oldalon letudjuk játszani a meglévő videókat. Ehhez saját online lejátszót kell használni.
+
+	Videók feltöltése:
+		A tulajdonosnak és az admin(ok)-nak lehetőségük lesz videók és azok leírásának feltöltésére.
+
+	Modell:
+		Kezdőoldal -> Önéletrajz -> Önéletrajz letöltés
+				-> E-mail küldés
+				-> Videók
+
+## Követelmények
 
 - Funkcionális követelmények 
   - Kezdőoldal (index.html)
@@ -34,5 +65,11 @@
 ## Absztrakt modell
 ---------
 ## Implementációs terv
+A Webes felület főként HTML, és CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
 
 ## Karbantartási terv
+A szoftveren a későbbiekben nem kell nagyobb karbantartásokat elvégezni. Az esetleges karbantartások a következőből állhatnak:
+- Tesztelés frissebb veriójú böngészők használatával. Hiba észlelése esetén azok javítása.
+- A kiszolgáló szerver státuszának ellenőrzése, offline szerver esetén újraindítás.
+- Igény esetén új funkciók hozzáadása.
+- Igény esetén új videók hozzáadása.
