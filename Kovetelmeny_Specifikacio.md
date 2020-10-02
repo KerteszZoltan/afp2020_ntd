@@ -31,3 +31,10 @@ Kezdőoldal  --> Önéletrajz oldal --> Videók
 <br>
 Kezdőoldal  --> Videók --> Önéletrajz
 
+## Követelménylista
+
+|  Követelmény sorszáma | Követelmény megnevezése  | Követelményekről bővebben | 
+|-----------------------|--------------------------|---------------------------|
+|         K001          |YouTube-on elérhető zenék |         3. fejezet     |                       
+|         K002          |Csak szükséges <br/> jogusultságok|     3,5 fejezet    |                                                              
+|         K003          |Egységes dizájn|     5. fejezet      |
