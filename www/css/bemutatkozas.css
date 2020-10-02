@@ -60,15 +60,7 @@ body{
     width: 80%;
 }
 
-.footer-page {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-decoration-color: white;
-    text-align: center;
-    background-color: black;
-}
+
 
 .welcome-type{
     color: #ddd;
@@ -77,9 +69,6 @@ body{
     top: 16%;
 }
 
-.footer-page p{
-    color: #ddd;
-}
 
 .main-page.leiras{
     margin: auto;
