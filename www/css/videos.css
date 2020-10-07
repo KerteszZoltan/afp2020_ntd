@@ -1,5 +1,5 @@
 body{
-    background-image: url("./../images/index_stars_background.jpg");
+    background-image: url("./../images/index_background.jpg");
     background-repeat: repeat;
 	color:white;
 }
@@ -35,6 +35,7 @@ body{
   margin:auto;
   width: 80%;
   height: 80%;
+  text-shadow:5px 5px 10px black;
 }
 
 .pagination {
