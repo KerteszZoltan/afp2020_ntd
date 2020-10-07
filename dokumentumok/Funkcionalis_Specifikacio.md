@@ -16,7 +16,8 @@ Egy egyszerű weblapot csinálunk ahol a kezdőlap egy bemutatkozó oldal. Itt a
 
 ## Jelenlegi üzleti folyamatok modellje
 
-Jelenleg az önéletrajzot az emberek papír alapon nyújtják be, ami nem túl környezet barát és sajnos nem ismerik meg a jelentkezőt csak beskatulyázzák első "ránézés" alapján. A kedvenc videóinkat ugyan lejátszási listához tudjuk rendelni, de bejelentkezés nélkül a YouTube alkalmazásban nem tudjuk megtekinteni, sok esetben mivel nem emlékszünk pontosan a nevére lehet, hogy meg sem találjuk. 
+Jelenleg az önéletrajzot az emberek papír alapon nyújtják be, ami nem túl környezet barát és sajnos nem ismerik meg a jelentkezőt csak beskatulyázzák első "ránézés" alapján, mivel személyes találkozóra csak az önéletrajz benyújtása után van lehetőség.
+Nagy hátránya annak, hogy az önéletrajzot papír alapon nyújtják be, hogy nem minden háztartásban található nyomtató, így sokszor problémás a kinyomtatás, mivel el kell menni egy papír boltba, ahol pendrive-ról ki tudják nyomtatni.  A kedvenc videóinkat ugyan lejátszási listához tudjuk rendelni, de bejelentkezés nélkül a YouTube alkalmazásban nem tudjuk megtekinteni, sok esetben mivel nem emlékszünk pontosan a nevére lehet, hogy meg sem találjuk. 
 
 ## Igényelt üzleti folyamatok modellje
 Igény szerint, ha az emberek normális weboldalt szeretnének készítettni akkor egy olyan céget kell keresniük, akik rendelkeznek referenciával és értenek a design-oláshoz. Az előre elkészített weboldalak sokszor nem személyre szabhatóak és el van bennük reklám helyezve, hogy az ingyenességet vagy éppen a minimális árakat fent tudják tartani. Egy saját oldal esetében a fenntartás érdekéből lehet reklámozni, de így a tulajdonos dönti el, hogy milyen reklámokat helyez el az oldalán.
