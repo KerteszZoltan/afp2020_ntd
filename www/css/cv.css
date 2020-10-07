@@ -1,12 +1,21 @@
 body{
 	background-image: url("./../images/index_background.jpg");
     background-repeat: no-repeat;
-    position: fixed;
+	position: fixed;
 	color:white;
+	height: 100%;
 }
+.main-page{
+	margin:auto;
+	overflow: auto;
+	width: 100%;
+	height: 90%;
+}
+
 .main{
 	margin:auto;
-	width: 50%;
+	overflow: auto;
+	width: 80%;
 	height: 80%;
 }
 .table, td, td {
@@ -48,18 +57,4 @@ img{
 .topnav a.active {
   background-color: grey;
   color: white;
-}
-
-.footer-page {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-decoration-color: white;
-    text-align: center;
-    background-color: black;
-}
-
-.footer-page p{
-    color: #ddd;
 }
