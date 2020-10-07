@@ -20,7 +20,11 @@ Jelenleg az önéletrajzot az emberek papír alapon nyújtják be, ami nem túl 
 Nagy hátránya annak, hogy az önéletrajzot papír alapon nyújtják be, hogy nem minden háztartásban található nyomtató, így sokszor problémás a kinyomtatás, mivel el kell menni egy papír boltba, ahol pendrive-ról ki tudják nyomtatni.  A kedvenc videóinkat ugyan lejátszási listához tudjuk rendelni, de bejelentkezés nélkül a YouTube alkalmazásban nem tudjuk megtekinteni, sok esetben mivel nem emlékszünk pontosan a nevére lehet, hogy meg sem találjuk. 
 
 ## Igényelt üzleti folyamatok modellje
-Igény szerint, ha az emberek normális weboldalt szeretnének készítettni akkor egy olyan céget kell keresniük, akik rendelkeznek referenciával és értenek a design-oláshoz. Az előre elkészített weboldalak sokszor nem személyre szabhatóak és el van bennük reklám helyezve, hogy az ingyenességet vagy éppen a minimális árakat fent tudják tartani. Egy saját oldal esetében a fenntartás érdekéből lehet reklámozni, de így a tulajdonos dönti el, hogy milyen reklámokat helyez el az oldalán.
+- Kezdőoldal: Itt egy rövid bemutatót jelenne meg magáról, ahol egy kép is található róla.
+
+- Önéletrajz oldal: Itt az önéletrajzát szeretné megjeleníteni. Alatta vagy felette lenne helyezve a két gomb amin az a felirat található, hogy "e-mail küldése" és "Önéletrajz letöltése". A gomboknak különböző háttérszíne lenne.
+
+- Videók oldal: Ezen az oldalon a kedvenc videóit lehetne látni egy rövid leírással. A videók átirányítás nélkül játszódnának le a weboldalon. 
 
 ## Követeleménylista 
 ### Funkcionális követelmények:
