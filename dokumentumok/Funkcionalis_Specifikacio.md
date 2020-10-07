@@ -24,22 +24,21 @@ Igény szerint, ha az emberek normális weboldalt szeretnének készítettni akk
 
 ## Követeleménylista 
 ### Funkcionális követelmények:
-  k1: Vezérlés: 
-	Videók, Bemutató, Önéletrajz
-	Egységes háttérkép
-  k2: Kezdőoldal:
- 	Kép beillesztés
- 	Rövid Bemutató
-  k3: Videók:
-	Beágyazott videók a Youtube-ról
-	Videó leírás.
-	Különböző betűtípus a Bemutató és az Önéletrajz oldaltól.
-  k4: Önéletrajz:
-	EuroPass kialakítású önéletrajz megjelenítés
-	Gomb: Különböző háttérszín
-	Gomb1: Email küldése
-	Gomb2: Önéletrajz letöltése
-	Különböző betűtípus a kezdőlaptól
+  -k1: Vezérlés: 
+	-Videók, Bemutató, Önéletrajz
+	-Egységes háttérkép
+  -k2: Kezdőoldal:
+ 	-Kép beillesztés
+ 	-Rövid Bemutató
+  -k3: Videók:
+	-Beágyazott videók a Youtube-ról
+	-Videó leírás.
+	-Különböző betűtípus a Bemutató és az Önéletrajz oldaltól.
+  -k4: Önéletrajz:
+	-EuroPass kialakítású önéletrajz megjelenítés	
+	-Gomb1: Email küldése
+	-Gomb2: Önéletrajz letöltése
+	-Különböző betűtípus a kezdőlaptól
 
 ## Képernyőtervek
 - A kezdőoldal lenne az ismertető oldal Önről. Az ismertető oldalon felül lenne egy navigációs menü. Ez a menü jelenne meg minden további oldalon és a menüben ki lenne emelve hogy mi az aktuális oldal. Az oldal tartalma az Ön álltal leírtakat tartalmazná. 
