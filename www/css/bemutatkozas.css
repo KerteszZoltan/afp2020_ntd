@@ -42,13 +42,13 @@ body{
     height: 200px;
     position: fixed;
     float: left;
-    top: 5%;
+    top: 8%;
     left:30%;
 }
 
 .image-view{
     width: 150px;
-    height: 150px;
+    height: 200px;
     left: 33%;
 }
 
