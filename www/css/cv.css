@@ -15,13 +15,15 @@ body{
 .main{
 	margin:auto;
 	overflow: auto;
-	width: 80%;
-	height: 80%;
+	position: fixed;
+	left: 40%;
+	top:10%;
 }
 .table, td, td {
 	border: 1px solid black;
 	font-size: 20px;
 	text-align: left;
+	background: black;
 }
 .capital{
 	font-size: 25px;
