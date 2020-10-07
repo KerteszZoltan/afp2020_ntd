@@ -1,5 +1,5 @@
 body{
-	background-image: url("./../images/index_stars_background.jpg");
+	background-image: url("./../images/index_background.jpg");
     background-repeat: no-repeat;
     position: fixed;
 	color:white;
@@ -21,7 +21,7 @@ body{
 	padding-bottom: 2em;
 }
 img{
-    width: 200px;
+    width: 150px;
     height: 200px;
 }
 .topnav{
